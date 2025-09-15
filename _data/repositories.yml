@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vantienpham
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - vantienpham/Awesome-Tensor-Decomposition
+  - vantienpham/PhD_Thesis_Tracker
+  - sliming-ai/sliming-ai.github.io
+  - vantienpham/NORTON
+  - vantienpham/CORING
+  - vantienpham/CXRAbnormalityLocalization
+  - vantienpham/Detectron2DeepSortPlus
