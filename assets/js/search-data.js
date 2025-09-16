@@ -97,7 +97,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/pvti", "_blank");
+          window.open("https://www.linkedin.com/in/van-tien-pham", "_blank");
         },
       },{
         id: 'social-orcid',
