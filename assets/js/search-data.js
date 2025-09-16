@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-misc",
+          title: "misc",
+          description: "miscellaneous materials and documents",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/misc/";
+          },
         },{id: "news-i-am-actively-seeking-a-postdoctoral-position-please-feel-free-to-reach-out",
           title: '👉 I am actively seeking a postdoctoral position. Please feel free to reach...',
           description: "",
