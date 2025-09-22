@@ -13,7 +13,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 
 ## Reviewing Certificates
 
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34): 1 review
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34): [1 review](https://www.webofscience.com/wos/author/record/OIR-4330-2025)
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing): [1 review](/assets/pdf/ReviewerCertificates/NEUCOM.pdf)
 - [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications): [4 reviews](/assets/pdf/ReviewerCertificates/ESWA.pdf)
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence): [2 reviews](/assets/pdf/ReviewerCertificates/EAAI.pdf)
