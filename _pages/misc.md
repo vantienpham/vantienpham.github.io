@@ -11,7 +11,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 
 ---
 
-## Reviewing Certificates
+## reviewing certificates
 
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34): [1 review](https://www.webofscience.com/wos/author/record/OIR-4330-2025)
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing): [1 review](/assets/pdf/ReviewerCertificates/NEUCOM.pdf)
