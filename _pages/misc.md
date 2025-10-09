@@ -20,3 +20,27 @@ Here you can find some miscellaneous materials and documents related to my acade
 - [The Journal of Supercomputing](https://link.springer.com/journal/11227): [2 reviews](/assets/pdf/ReviewerCertificates/TJS.pdf)
 - [27th ACM International Conference on Multimodal Interaction (ICMI 2025)](https://icmi.acm.org/2025/people/): [8 reviews](https://icmi.acm.org/2025/people/)
 - [XXXe Colloque Francophone de Traitement du Signal et des Images (GRETSI’25)](https://gretsi.fr/2025/): [1 review](https://github.com/GRETSI-2025/Label-Reproductible/issues/36)
+
+## talks and presentations
+
+<div style="text-align: center; max-width: 100%; margin: auto;">
+  <p><strong>Coupled Tensor Decomposition for Compact Network Representation</strong></p>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/Spj82fJ6oTM" 
+          title="Singular values-driven automated filter pruning"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+<div style="text-align: center; max-width: 100%; margin: auto; margin-top: 2em;">
+  <p><strong>Singular Values-Driven Automated Filter Pruning</strong></p>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/P0jVSO9LjPg" 
+          title="Second presentation"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
