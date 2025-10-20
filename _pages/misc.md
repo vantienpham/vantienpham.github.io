@@ -19,6 +19,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 - [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications): [4 reviews](/assets/pdf/ReviewerCertificates/ESWA.pdf)
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence): [2 reviews](/assets/pdf/ReviewerCertificates/EAAI.pdf)
 - [The Journal of Supercomputing](https://link.springer.com/journal/11227): [2 reviews](/assets/pdf/ReviewerCertificates/TJS.pdf)
+- [npj Heritage Science](https://www.nature.com/npjheritagesci/): [1 reviews](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf)
 - [27th ACM International Conference on Multimodal Interaction (ICMI 2025)](https://icmi.acm.org/2025/people/): [8 reviews](https://icmi.acm.org/2025/people/)
 - [XXXe Colloque Francophone de Traitement du Signal et des Images (GRETSI’25)](https://gretsi.fr/2025/): [1 review](https://github.com/GRETSI-2025/Label-Reproductible/issues/36)
 
