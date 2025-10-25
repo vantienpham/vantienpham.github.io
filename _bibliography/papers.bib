@@ -81,6 +81,15 @@ year={2025},
 preview={tensor.png},
 selected={true},
 }
+@article{pham2024deep,
+title={Deep Neural Networks Compression Using Low-Rank Approximations},
+author={Van Tien Pham},
+journal={Rapport de la deuxième année de thèse, soumis au Comité de Suivi Individuel, École Doctorale 548, Université de Toulon},
+abstract={This report updates the outcomes of the first year and outlines the progress made during the second year of my PhD. The manuscripts submitted from the two first-year projects, CORING and NORTON, are published in Neural Networks and IEEE Transactions on Neural Networks and Learning Systems, respectively. In the second year, I focused on two new projects, contributing to advancements in neural network compression and acceleration through filter pruning and tensor decomposition techniques. The first project led to the development of SLIMING (Singular vaLues-drIven autoMated prunING), an automated filter pruning method based on singular value analysis. SLIMING divides the pruning task into two stages: determining the pruning configuration and selecting the filters to prune for each layer. By formulating these as optimization problems, the method ensures the structural integrity of filters and has been validated through extensive experiments on various architectures and datasets. The second project introduced coupled filter decomposition, a novel low-rank approximation approach. By jointly factorizing filters using coupled tensor decompositions, specifically coupled Canonical Polyadic Decomposition (CCPD), we enable the sharing of a common factor matrix across filters, thereby significantly reducing both parameter count and computational complexity. A custom distance metric for $K$-means clustering further improves the grouping of similar filters, enhancing the overall compression performance. The approach was tested across multiple vision tasks, showing competitive results in model compression. Potential avenues include delving deeper into the low-rank approximation domain, expanding to encompass other techniques, exploring a broader spectrum of neural network architectures, and applying these efficient models to diverse applications.},
+year={2024},
+pdf={Deep Neural Networks Compression Using Low-Rank Approximations.pdf},
+preview={CoDec-teaser v1.2.png}
+}
 @article{pham2024efficient,
 title={Efficient tensor decomposition-based filter pruning},
 journal={Neural Networks},
