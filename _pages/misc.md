@@ -30,8 +30,19 @@ Here you can find some miscellaneous materials and documents related to my acade
   <p><strong>Coupled Tensor Decomposition for Compact Network Representation</strong></p>
   <iframe width="560" height="315" 
           src="https://www.youtube.com/embed/Spj82fJ6oTM" 
-          title="Singular values-driven automated filter pruning"
-          frameborder="0" 
+          title="Coupled Tensor Decomposition for Compact Network Representation"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+<div style="text-align: center; max-width: 100%; margin: auto;">
+  <p><strong>Coupled Tensor Decomposition for Compact Network Representation</strong></p>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/MgD0KfXz-2s" 
+          title="Coupled Tensor Decomposition for Compact Network Representation"
+          frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
   </iframe>
@@ -41,8 +52,8 @@ Here you can find some miscellaneous materials and documents related to my acade
   <p><strong>Singular Values-Driven Automated Filter Pruning</strong></p>
   <iframe width="560" height="315" 
           src="https://www.youtube.com/embed/P0jVSO9LjPg" 
-          title="Second presentation"
-          frameborder="0" 
+          title="Singular Values-Driven Automated Filter Pruning"
+          frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
   </iframe>
