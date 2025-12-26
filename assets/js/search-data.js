@@ -128,7 +128,7 @@ ninja.data = [{
         title: 'Stackoverflow',
         section: 'Socials',
         handler: () => {
-          window.open("https://stackoverflow.com/users/vantienpham", "_blank");
+          window.open("https://stackoverflow.com/users/7244985", "_blank");
         },
       },{
       id: 'light-theme',
