@@ -8,7 +8,7 @@
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
+# dblp_url: https://dblp.org/pid/74/9492.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: van.tien.pham@outlook.com # your email address
 # facebook_id: # your facebook id
@@ -35,7 +35,7 @@ orcid_id: 0000-0003-3890-7188 # your ORCID iD
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: CT69zFMAAAAJ # your Google Scholar ID
-# scopus_id: # your profile on Scopus
+# scopus_id: 59454716500 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 stackoverflow_id: 7244985 # your stackoverflow id
