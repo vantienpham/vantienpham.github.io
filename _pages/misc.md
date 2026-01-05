@@ -4,7 +4,7 @@ permalink: /misc/
 title: misc
 description: miscellaneous materials and documents
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 Here you can find some miscellaneous materials and documents related to my academic activities.
