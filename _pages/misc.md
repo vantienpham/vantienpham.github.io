@@ -21,6 +21,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 - [Quantum Machine Intelligence](https://link.springer.com/journal/42484): [1 review](/assets/pdf/ReviewerCertificates/Quantum Machine Intelligence.pdf)
 - [The Journal of Supercomputing](https://link.springer.com/journal/11227): [2 reviews](/assets/pdf/ReviewerCertificates/TJS.pdf)
 - [Scientific Reports](https://www.nature.com/srep/): [3 reviews](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf)
+- [Electronics](https://www.mdpi.com/journal/electronics): [2 reviews](/assets/pdf/ReviewerCertificates/Electronics.pdf)
 - [Signal, Image and Video Processing](https://link.springer.com/journal/11760): [1 reviews](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf)
 - [npj Heritage Science](https://www.nature.com/npjheritagesci/): [2 reviews](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf)
 - [27th ACM International Conference on Multimodal Interaction (ICMI 2025)](https://icmi.acm.org/2025/people/): [8 reviews](https://icmi.acm.org/2025/people/)
