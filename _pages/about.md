@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I recently obtained my Ph.D. from the <a href="https://www.univ-tln.fr/">Université de Toulon</a>, <a href="https://www.cnrs.fr/fr">CNRS</a>, <a href="https://www.lis-lab.fr/">LIS, France</a>, where my doctoral work focused on neural network compression and acceleration, particularly pruning and tensor decomposition. I am currently an independent researcher with ongoing interests in efficient deep learning.
+I recently obtained my Ph.D. from the <a href="https://www.univ-tln.fr/">Université de Toulon</a>, <a href="https://www.cnrs.fr/fr">CNRS</a>, <a href="https://www.lis-lab.fr/">LIS, France</a>, where my doctoral work focused on neural network compression and acceleration, particularly pruning and tensor decomposition. I am currently a postdoctoral researcher with ongoing interests in efficient deep learning.
 
 Previously, I worked as a software engineer at the Modelling and Simulation Centre, <a href="https://viettelhightech.vn/en">Viettel High Technologies Industry Corporation</a>, where I contributed to the development of a car driving training simulation system. This experience allowed me to develop skills in computer graphics, programming, 3D game engines, databases, and network engineering.
 
