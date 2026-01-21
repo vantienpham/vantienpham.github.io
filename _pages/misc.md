@@ -24,6 +24,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 - [Mathematics](https://www.mdpi.com/journal/mathematics): [1 reviews](/assets/pdf/ReviewerCertificates/Mathematics.pdf)
 - [Applied Sciences](https://www.mdpi.com/journal/applsci): [1 reviews](/assets/pdf/ReviewerCertificates/Mathematics.pdf)
 - [Electronics](https://www.mdpi.com/journal/electronics): [2 reviews](/assets/pdf/ReviewerCertificates/Electronics.pdf)
+- [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443): [1 reviews](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf)
 - [Signal, Image and Video Processing](https://link.springer.com/journal/11760): [1 reviews](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf)
 - [npj Heritage Science](https://www.nature.com/npjheritagesci/): [2 reviews](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf)
 - [27th ACM International Conference on Multimodal Interaction (ICMI 2025)](https://icmi.acm.org/2025/people/): [8 reviews](https://icmi.acm.org/2025/people/)
