@@ -37,10 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "news-i-am-actively-seeking-a-postdoctoral-position-please-feel-free-to-reach-out",
-          title: '👉 I am actively seeking a postdoctoral position. Please feel free to reach...',
-          description: "",
-          section: "News",},{id: "news-i-am-pleased-to-announce-that-i-have-successfully-defended-my-phd-thesis-in-computer-science-at-the-université-de-toulon",
+        },{id: "news-i-am-pleased-to-announce-that-i-have-successfully-defended-my-phd-thesis-in-computer-science-at-the-université-de-toulon",
           title: '🎓 I am pleased to announce that I have successfully defended my PhD...',
           description: "",
           section: "News",},{id: "projects-project-1",
