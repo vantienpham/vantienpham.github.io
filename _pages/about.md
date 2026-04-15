@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,7 +26,7 @@ latest_posts:
 
 I am currently a postdoctoral researcher at <a href="https://www.cea.fr/">CEA</a>, <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, working within the <a href="https://www.pepr-ia.fr/projet/holigrail/">PEPR IA – HOLIGRAIL project</a> on energy-efficient and hardware-aware AI architectures for embedded systems. Previously, I was a postdoctoral researcher at the <a href="https://www.lis-lab.fr/">Laboratoire d’Informatique et des Systèmes (LIS)</a>, where I worked on efficient multimodal foundation models for anomaly detection.
 
-I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, with doctoral research on neural network compression and acceleration, particularly structured pruning and tensor decomposition.
+I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, where my thesis on deep neural network compression using pruning and low-rank approximations was awarded an Accessit of the AFRIF 2026 PhD Thesis Prize (Association Française pour la Reconnaissance et l’Interprétation des Formes).
 
 Before that, I was a research engineer at <a href="https://viettelhightech.vn/en">Viettel High Technologies Industry Corporation</a>, contributing to the development of a virtual reality simulation system.
 
