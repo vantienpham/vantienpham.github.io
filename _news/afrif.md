@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My PhD thesis was awarded an **Accessit of the AFRIF 2026 PhD Thesis Prize** (Association Française pour la Reconnaissance et l’Interprétation des Formes).
+My PhD thesis was awarded an Accessit of the AFRIF 2026 PhD Thesis Prize.
