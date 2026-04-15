@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-project-controlled-and-efficient-adaptation-of-multimodal-foundation-models-for-anomaly-detection-has-been-granted-a-genci-allocation-providing-50-000-gpu-hours-on-the-french-national-hpc-infrastructure-including-the-jean-zay-supercomputer",
           title: '⚡ Our project “Controlled and efficient adaptation of multimodal foundation models for anomaly...',
           description: "",
-          section: "News",},{id: "news-my-phd-thesis-was-awarded-an-accessit-of-the-afrif-2026-phd-thesis-prize-association-française-pour-la-reconnaissance-et-l-interprétation-des-formes",
+          section: "News",},{id: "news-my-phd-thesis-was-awarded-an-accessit-of-the-afrif-2026-phd-thesis-prize",
           title: 'My PhD thesis was awarded an Accessit of the AFRIF 2026 PhD Thesis...',
           description: "",
           section: "News",},{id: "projects-project-1",
