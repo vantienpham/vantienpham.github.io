@@ -19,6 +19,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing): [1 review](/assets/pdf/ReviewerCertificates/NEUCOM.pdf)
 - [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications): [4 reviews](/assets/pdf/ReviewerCertificates/ESWA.pdf)
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence): [2 reviews](/assets/pdf/ReviewerCertificates/EAAI.pdf)
+- [Artificial Intelligence Review](https://link.springer.com/journal/10462): [1 review](/assets/pdf/ReviewerCertificates/Artificial Intelligence Review.pdf)
 - [Quantum Machine Intelligence](https://link.springer.com/journal/42484): [1 review](/assets/pdf/ReviewerCertificates/Quantum Machine Intelligence.pdf)
 - [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence): [1 review](https://publons.com/wos-op/review/author/UJ48Aeq5/)
 - [The Journal of Supercomputing](https://link.springer.com/journal/11227): [2 reviews](/assets/pdf/ReviewerCertificates/TJS.pdf)
