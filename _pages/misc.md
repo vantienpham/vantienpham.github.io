@@ -25,6 +25,7 @@ Here you can find some miscellaneous materials and documents related to my acade
 - [The Journal of Supercomputing](https://link.springer.com/journal/11227): [2 reviews](/assets/pdf/ReviewerCertificates/TJS.pdf)
 - [Scientific Reports](https://www.nature.com/srep/): [4 reviews](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf)
 - [Mathematics](https://www.mdpi.com/journal/mathematics): [1 reviews](/assets/pdf/ReviewerCertificates/Mathematics.pdf)
+- [Algorithms](https://www.mdpi.com/journal/algorithms): 2 reviews
 - [Applied Sciences](https://www.mdpi.com/journal/applsci): [1 reviews](/assets/pdf/ReviewerCertificates/Mathematics.pdf)
 - [Electronics](https://www.mdpi.com/journal/electronics): [2 reviews](/assets/pdf/ReviewerCertificates/Electronics.pdf)
 - [Signals](https://www.mdpi.com/journal/signals): 1 reviews
