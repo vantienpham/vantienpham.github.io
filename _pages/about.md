@@ -26,7 +26,7 @@ latest_posts:
 
 I am currently a postdoctoral researcher at <a href="https://www.cea.fr/">CEA</a>, <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, working within the <a href="https://www.pepr-ia.fr/projet/holigrail/">PEPR IA – HOLIGRAIL</a> project on energy-efficient and hardware-aware AI architectures for embedded systems. Previously, I was a postdoctoral researcher at the <a href="https://www.lis-lab.fr/">Laboratoire d’Informatique et des Systèmes (LIS)</a>, where I worked on efficient multimodal foundation models for anomaly detection.
 
-I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, where my thesis on deep neural network compression using pruning and low-rank approximations was awarded an Accessit of the [AFRIF 2026 PhD Thesis Prize](http://afrif.irisa.fr/?page_id=54) (Association Française pour la Reconnaissance et l’Interprétation des Formes).
+I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, where my thesis on deep neural network compression using pruning and low-rank approximations was awarded the [GDR IASIS–GRETSI PhD Thesis Prize](https://gretsi.fr/prix-de-these2026/resultats.php) (lauréat), jointly awarded by [Club EEA](https://clubeea.com/), [GDR IASIS](https://gdr-iasis.cnrs.fr/), and [GRETSI](https://www.gretsi.fr/). It also received the Accessit of the [AFRIF 2026 PhD Thesis Prize](http://afrif.irisa.fr/?page_id=54) (Association Française pour la Reconnaissance et l’Interprétation des Formes).
 
 Before that, I was a research engineer at <a href="https://viettelhightech.vn/en">Viettel High Technologies Industry Corporation</a>, contributing to the development of a virtual reality simulation system.
 
