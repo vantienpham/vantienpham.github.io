@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My PhD thesis was awarded an Accessit of the [AFRIF 2026 PhD Thesis Prize](http://afrif.irisa.fr/?page_id=54).
+My PhD thesis was awarded the Accessit of the [AFRIF 2026 PhD Thesis Prize](http://afrif.irisa.fr/?page_id=54).
