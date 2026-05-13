@@ -31,4 +31,4 @@ Before that, I was a research engineer at <a href="https://viettelhightech.vn/en
 
 I earned my engineering and master’s degrees from <a href="https://hust.edu.vn/en/">Hanoi University of Science and Technology</a>, <a href="https://soict.hust.edu.vn/en/">School of Information and Communications Technology</a>. During this period, I worked at the <a href="https://mica.edu.vn/index.php?lang=en">International Research Institute MICA</a> on object detection, segmentation, and tracking from egocentric vision.
 
-My research interests include efficient and sustainable AI, neural network compression, tensor methods, multimodal foundation models, and hardware-aware machine learning. I welcome collaborations and discussions on these topics across academia and industry.
+My research interests include efficient and sustainable AI, network compression, tensor methods, multimodal foundation models, and hardware-aware machine learning. I welcome collaborations and discussions on these topics across academia and industry.
