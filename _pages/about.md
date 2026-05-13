@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Compression is all you need 🎯
 
 profile:
   align: right
