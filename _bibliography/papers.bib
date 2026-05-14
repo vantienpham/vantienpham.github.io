@@ -18,7 +18,7 @@
   url      = {https://www.researchgate.net/publication/404801002_Robust_Basis_Spline_Decoupling_for_the_Compression_of_Transformer_Models},
   preview  = {de2026robust.png}
 }
-@phdthesis{pham2025neural,
+@phdthesis{pham2025deep,
   title    = {Deep Neural Network Compression Using Pruning and Low-Rank Approximations},
   author   = {Pham, Van Tien},
   year     = {2025},
@@ -28,7 +28,7 @@
   website  = {https://hal.science/tel-05538668},
   video    = {https://www.youtube.com/playlist?list=PLWBYzJD_wkfvOn8fA-pKx0HIX0n1V5epw},
   keywords = {low-rank approximations, pruning, neural network compression},
-  preview  = {phdthesis.png}
+  preview  = {pham2025deep.png}
 }
 @article{pham2026coupled,
   author   = {Pham, Van Tien and Zniyed, Yassine and Nguyen, Thanh Phuong},
@@ -44,11 +44,11 @@
   website  = {https://codec-ai.github.io/},
   code     = {https://github.com/codec-ai/codec-ai.github.io},
   video    = {https://www.youtube.com/watch?v=Spj82fJ6oTM},
-  preview  = {codec.png},
+  preview  = {pham2026coupled.png},
   selected = {true}
 }
 @article{pham2025singular,
-  title    = {Singular values-driven automated filter pruning},
+  title    = {Singular Values-Driven Automated Filter Pruning},
   author   = {Pham, Van Tien and Zniyed, Yassine and Nguyen, Thanh Phuong},
   abstract = {In this paper, we present SLIMING (Singular vaLues-drIven autoMated filter
               prunING), an automated filter pruning method that uses singular values to formalize
@@ -73,7 +73,7 @@
   volume   = {192},
   pages    = {107857},
   issn     = {0893-6080},
-  preview  = {svgg.png},
+  preview  = {pham2025singular.png},
   selected = {true}
 }
 @article{tokcan2026tensor,
@@ -104,7 +104,7 @@
   pages    = {110191},
   year     = {2026},
   issn     = {0165-1684},
-  preview  = {tensor.png},
+  preview  = {tokcan2026tensor.png},
   selected = {true}
 }
 @article{pham2024deep,
@@ -114,10 +114,10 @@
   abstract = {This report updates the outcomes of the first year and outlines the progress made during the second year of my PhD. The manuscripts submitted from the two first-year projects, CORING and NORTON, are published in Neural Networks and IEEE Transactions on Neural Networks and Learning Systems, respectively. In the second year, I focused on two new projects, contributing to advancements in neural network compression and acceleration through filter pruning and tensor decomposition techniques. The first project led to the development of SLIMING (Singular vaLues-drIven autoMated prunING), an automated filter pruning method based on singular value analysis. SLIMING divides the pruning task into two stages: determining the pruning configuration and selecting the filters to prune for each layer. By formulating these as optimization problems, the method ensures the structural integrity of filters and has been validated through extensive experiments on various architectures and datasets. The second project introduced coupled filter decomposition, a novel low-rank approximation approach. By jointly factorizing filters using coupled tensor decompositions, specifically coupled Canonical Polyadic Decomposition (CCPD), we enable the sharing of a common factor matrix across filters, thereby significantly reducing both parameter count and computational complexity. A custom distance metric for $K$-means clustering further improves the grouping of similar filters, enhancing the overall compression performance. The approach was tested across multiple vision tasks, showing competitive results in model compression. Potential avenues include delving deeper into the low-rank approximation domain, expanding to encompass other techniques, exploring a broader spectrum of neural network architectures, and applying these efficient models to diverse applications.},
   year     = {2024},
   pdf      = {Deep Neural Networks Compression Using Low-Rank Approximations.pdf},
-  preview  = {CoDec-teaser v1.2.png}
+  preview  = {pham2024deep.png}
 }
 @article{pham2024efficient,
-  title    = {Efficient tensor decomposition-based filter pruning},
+  title    = {Efficient Tensor Decomposition-Based Filter Pruning},
   journal  = {Neural Networks},
   volume   = {178},
   pages    = {106393},
@@ -143,7 +143,7 @@
               </div>
               },
   code     = {https://github.com/vantienpham/CORING},
-  preview  = {ring.png},
+  preview  = {pham2024efficient.png},
   poster   = {coring poster.pdf},
   selected = {false}
 }
@@ -159,7 +159,7 @@
   abstract = {Network compression techniques that combine tensor decompositions and pruning have shown promise in leveraging the advantages of both strategies. In this work, we propose enhanced Network cOmpRession through TensOr decompositions and pruNing (NORTON), a novel method for network compression. NORTON introduces the concept of filter decomposition, enabling a more detailed decomposition of the network while preserving the weight’s multidimensional properties. Our method incorporates a novel structured pruning approach, effectively integrating the decomposed model. Through extensive experiments on various architectures, benchmark datasets, and representative vision tasks, we demonstrate the usefulness of our method. NORTON achieves superior results compared to state-of-the-art (SOTA) techniques in terms of complexity and accuracy. Our code is also available for research purposes.},
   doi      = {10.1109/TNNLS.2024.3370294},
   code     = {https://github.com/vantienpham/NORTON},
-  preview  = {norton.gif},
+  preview  = {pham2025enhanced.gif},
   selected = {false}
 }
 @inproceedings{pham2024hybrid,
@@ -174,7 +174,7 @@
   abstract  = {The application of network compression methods, combining tensor decompositions and pruning, has demonstrated significant potential in harnessing the benefits of both strategies. This research introduces NORTON (hybrid Network cOmpression thRough Tensor decompOsitions and pruNing), a novel hybrid approach for network compression. The key innovation lies in the introduction of filter decomposition, enhancing the detailed breakdown of the network while preserving the multidimensional properties of filters. Our method incorporates a structured pruning approach, seamlessly integrating the decomposed model. Through a comprehensive set of experiments across various architectures, benchmark datasets, and representative vision tasks, the efficacy of our approach is highlighted.},
   doi       = {10.23919/EUSIPCO63174.2024.10715223},
   code      = {https://github.com/vantienpham/NORTON},
-  preview   = {filter_decomposition.svg}
+  preview   = {pham2024hybrid.svg}
 }
 @article{pham2023deep,
   title    = {Deep Learning through Efficient Model Design},
@@ -183,7 +183,7 @@
   abstract = {In the rapidly evolving landscape of deep learning, the proliferation of large-scale neural networks has brought forth new horizons of artificial intelligence. However, their sheer size and computational demands have posed significant challenges, limiting their applicability in resource-constrained environments. The overarching problem of network compression seeks to mitigate these challenges by efficiently designing deep neural models. In this report, we embark on a journey to address this problem, exploring novel avenues for model compression. Our first contribution, CORING, introduces a pioneering filter pruning method that harnesses tensor decomposition, preserving the multidimensional essence of filters. By leveraging the power of CORING, we achieve impressive reductions in model size and computational requirements while retaining or even enhancing performance. CORING's ability to generalize models through pruning is demonstrated across various architectures and datasets. The second contribution, NORTON, unveils a hybrid network compression technique that combines tensor decompositions with structured pruning. NORTON offers a comprehensive approach to model compression, optimizing architecture, and reducing the number of parameters. With NORTON, we attain superior compression ratios and accuracy retention, making it a versatile tool for model optimization. Looking ahead, our research sets the stage for future investigations. Potential avenues include delving deeper into the compression domain, expanding to encompass various decomposition techniques, exploring a broader spectrum of neural network architectures, and applying these efficient models to diverse applications. As we navigate the evolving landscape of deep learning, the pursuit of efficient model design remains at the forefront, driving innovation and unlocking the potential for AI in resource-constrained scenarios.},
   year     = {2023},
   pdf      = {Deep Learning through Efficient Model Design.pdf},
-  preview  = {1stCSI.jpg}
+  preview  = {pham2023deep.jpg}
 }
 @inproceedings{pham2023elagage,
   title     = {{\'E}lagage efficace des filtres bas{\'e} sur les d{\'e}compositions tensorielles},
@@ -193,10 +193,10 @@
   year      = {2023},
   code      = {https://github.com/vantienpham/CORING},
   poster    = {coring poster.pdf},
-  preview   = {Performance.png}
+  preview   = {pham2023elagage.png}
 }
 @inproceedings{pham2023identification,
-  title        = {Identification and localization COVID-19 abnormalities on chest radiographs},
+  title        = {Identification and Localization COVID-19 Abnormalities on Chest Radiographs},
   author       = {Pham, Van Tien and Nguyen, Thanh Phuong},
   booktitle    = {The International Conference on Artificial Intelligence and Computer Vision},
   pages        = {251--261},
@@ -204,10 +204,10 @@
   doi          = {10.1007/978-3-031-27762-7_24},
   year         = {2023},
   organization = {Springer},
-  preview      = {COVID19.png}
+  preview      = {pham2023identification.png}
 }
 @inproceedings{pham2021chest,
-  title     = {Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks},
+  title     = {Chest X-ray Abnormalities Localization via Ensemble of Deep Convolutional Neural Networks},
   author    = {Pham, Van Tien and Tran, Cong Minh and Zheng, Stanley and Vu, Tri Minh and Nath, Shantanu},
   booktitle = {2021 International Conference on Advanced Technologies for Communications (ATC)},
   pages     = {125--130},
@@ -217,10 +217,10 @@
   year      = {2021},
   code      = {https://github.com/vantienpham/CXRAbnormalityLocalization},
   video     = {https://www.youtube.com/watch?v=bJv3Nza3JuM},
-  preview   = {chestxray.png}
+  preview   = {pham2021chest.png}
 }
 @inproceedings{pham2021detection,
-  title     = {Detection and tracking hand from FPV: benchmarks and challenges on rehabilitation exercises dataset},
+  title     = {Detection and Tracking Hand from FPV: Benchmarks and Challenges on Rehabilitation Exercises Dataset},
   author    = {Pham, Van Tien and Tran, Thanh Hai and Vu, Hai},
   booktitle = {2021 RIVF International Conference on Computing and Communication Technologies (RIVF)},
   pages     = {1--6},
@@ -228,15 +228,15 @@
   doi       = {10.1109/RIVF51545.2021.9642078},
   year      = {2021},
   code      = {https://github.com/vantienpham/Detectron2DeepSortPlus},
-  preview   = {hand.gif}
+  preview   = {pham2021hand.gif}
 }
 @inproceedings{pham2020hand,
-  title     = {Hand detection and segmentation using multimodal information from Kinect},
+  title     = {Hand Detection and Segmentation using Multimodal Information from Kinect},
   author    = {Pham, Van Tien and Le, Thi Lan and Tran, Thanh Hai and Nguyen, Thanh Phuong},
   booktitle = {2020 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)},
   pages     = {1--6},
   abstract  = {Nowadays, hand gestures are becoming one of the most natural and intuitive ways of communication between human and computer. To this end, a complex process including hand gesture acquisition, hand detection, gesture representation and recognition must be carried out. This paper presents a method that detects hand and segments hand regions from images captured by a Kinect sensor. As Kinect sensor provides not only RGB images as conventional camera, but also depth and skeleton, in our work, we incorporate multi-modal data from Kinect to deal with hand detection and segmentation. Specifically, we use skeleton to approximately determine hand palm. Then a skin based detector will be applied to discard non-skin pixels from the region of interest. Using depth data helps to limit the human body regions and remove false positive regions from the previous steps. Finally, morphological operations will be applied to fill holes in the hand region. The main advantage of this method is very easy to implement and it performs in real-time on an ordinary computer. We evaluate the proposed method on a dataset of hand gestures captured from different viewpoints. Experiment shows that it provides reasonable accuracy at very high frame rate. It also produces comparable performance in comparison with deep learning based methods.},
   doi       = {10.1109/MAPR49794.2020.9237785},
   year      = {2020},
-  preview   = {kinect.png}
+  preview   = {pham2020hand.png}
 }
