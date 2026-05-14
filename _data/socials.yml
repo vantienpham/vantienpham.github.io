@@ -11,9 +11,12 @@
 # dblp_url: https://dblp.org/pid/74/9492.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: van.tien.pham@outlook.com # your email address
+scholar_userid: CT69zFMAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-3890-7188 # your ORCID iD
+github_username: vantienpham # your GitHub user name
+linkedin_username: van-tien-pham # your LinkedIn user name
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: vantienpham # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -24,17 +27,14 @@ github_username: vantienpham # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: van-tien-pham # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0003-3890-7188 # your ORCID iD
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: Van-Pham-106 # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: CT69zFMAAAAJ # your Google Scholar ID
 # scopus_id: 59454716500 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
