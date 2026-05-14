@@ -37,11 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "news-i-am-pleased-to-announce-that-i-have-successfully-defended-my-phd-thesis-in-computer-science-at-the-université-de-toulon",
-          title: '🎓 I am pleased to announce that I have successfully defended my PhD...',
+        },{id: "news-defense",
+          title: 'Defense',
           description: "",
-          section: "News",},{id: "news-our-project-controlled-and-efficient-adaptation-of-multimodal-foundation-models-for-anomaly-detection-has-been-granted-a-genci-allocation-providing-50-000-gpu-hours-on-the-french-national-hpc-infrastructure-including-the-jean-zay-supercomputer",
-          title: '⚡ Our project “Controlled and efficient adaptation of multimodal foundation models for anomaly...',
+          section: "News",handler: () => {
+              window.location.href = "/news/defense.html";
+            },},{id: "news-the-project-controlled-and-efficient-adaptation-of-multimodal-foundation-models-for-anomaly-detection-has-been-granted-a-genci-allocation-of-50-000-gpu-hours-on-the-french-national-high-performance-computing-infrastructure-including-resources-at-idris",
+          title: 'The project “Controlled and efficient adaptation of multimodal foundation models for anomaly detection”...',
           description: "",
           section: "News",},{id: "news-my-phd-thesis-was-awarded-the-accessit-of-the-afrif-2026-phd-thesis-prize",
           title: 'My PhD thesis was awarded the Accessit of the AFRIF 2026 PhD Thesis...',
