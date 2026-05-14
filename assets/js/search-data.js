@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "news-defense",
-          title: 'Defense',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/defense.html";
-            },},{id: "news-the-project-controlled-and-efficient-adaptation-of-multimodal-foundation-models-for-anomaly-detection-has-been-granted-a-genci-allocation-of-50-000-gpu-hours-on-the-french-national-high-performance-computing-infrastructure-including-resources-at-idris",
+        },{id: "news-the-project-controlled-and-efficient-adaptation-of-multimodal-foundation-models-for-anomaly-detection-has-been-granted-a-genci-allocation-of-50-000-gpu-hours-on-the-french-national-high-performance-computing-infrastructure-including-resources-at-idris",
           title: 'The project “Controlled and efficient adaptation of multimodal foundation models for anomaly detection”...',
           description: "",
           section: "News",},{id: "news-my-phd-thesis-was-awarded-the-accessit-of-the-afrif-2026-phd-thesis-prize",
