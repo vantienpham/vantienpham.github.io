@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
----
-
 ## reviewing certificates
 
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://publons.com/wos-op/review/author/09gpACcr/): [1 review](/assets/pdf/ReviewerCertificates/TPAMI.pdf)
