@@ -132,13 +132,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=CT69zFMAAAAJ", "_blank");
         },
       },{
-        id: 'social-stackoverflow',
-        title: 'Stackoverflow',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://stackoverflow.com/users/7244985", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
