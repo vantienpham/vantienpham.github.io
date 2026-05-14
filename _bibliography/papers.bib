@@ -78,7 +78,7 @@
 }
 @article{tokcan2026tensor,
   title    = {Tensor Decompositions for Signal Processing: Theory, Advances, and Applications},
-  author   = {Tokcan, Neriman and Sofi, Shakir Showkat and Pham, Van Tien and Prévost, Clémence and Kharbech, Sofiane and Magnier Baptiste and Nguyen, Thanh Phuong and Zniyed, Yassine and De Lathauwer, Lieven},
+  author   = {Tokcan, Neriman and Sofi, Shakir Showkat and Pham, Van Tien and Prévost, Clémence and Kharbech, Sofiane and Magnier, Baptiste and Nguyen, Thanh Phuong and Zniyed, Yassine and De Lathauwer, Lieven},
   abstract = {In the era of big data, rapid advancements in technology and data collection methods
               have led to the generation of vast amounts of multi-modal high-dimensional data
               across a diverse range of disciplines. Tensor methods have emerged as essential tools
@@ -109,7 +109,7 @@
 }
 @article{pham2024deep,
   title    = {Deep Neural Networks Compression Using Low-Rank Approximations},
-  author   = {Van Tien Pham},
+  author   = {Pham, Van Tien},
   journal  = {Rapport de la deuxième année de thèse, soumis au Comité de Suivi Individuel, École Doctorale 548, Université de Toulon},
   abstract = {This report updates the outcomes of the first year and outlines the progress made during the second year of my PhD. The manuscripts submitted from the two first-year projects, CORING and NORTON, are published in Neural Networks and IEEE Transactions on Neural Networks and Learning Systems, respectively. In the second year, I focused on two new projects, contributing to advancements in neural network compression and acceleration through filter pruning and tensor decomposition techniques. The first project led to the development of SLIMING (Singular vaLues-drIven autoMated prunING), an automated filter pruning method based on singular value analysis. SLIMING divides the pruning task into two stages: determining the pruning configuration and selecting the filters to prune for each layer. By formulating these as optimization problems, the method ensures the structural integrity of filters and has been validated through extensive experiments on various architectures and datasets. The second project introduced coupled filter decomposition, a novel low-rank approximation approach. By jointly factorizing filters using coupled tensor decompositions, specifically coupled Canonical Polyadic Decomposition (CCPD), we enable the sharing of a common factor matrix across filters, thereby significantly reducing both parameter count and computational complexity. A custom distance metric for $K$-means clustering further improves the grouping of similar filters, enhancing the overall compression performance. The approach was tested across multiple vision tasks, showing competitive results in model compression. Potential avenues include delving deeper into the low-rank approximation domain, expanding to encompass other techniques, exploring a broader spectrum of neural network architectures, and applying these efficient models to diverse applications.},
   year     = {2024},
@@ -125,7 +125,7 @@
   issn     = {0893-6080},
   doi      = {https://doi.org/10.1016/j.neunet.2024.106393},
   url      = {https://www.sciencedirect.com/science/article/pii/S0893608024003174},
-  author   = {Van Tien Pham and Yassine Zniyed and Thanh Phuong Nguyen},
+  author   = {Pham, Van Tien and Zniyed, Yassine and Nguyen, Thanh Phuong},
   keywords = {Network compression, Tensor decompositions, Filter pruning},
   abstract = {<div align="center">
               <em>
@@ -178,7 +178,7 @@
 }
 @article{pham2023deep,
   title    = {Deep Learning through Efficient Model Design},
-  author   = {Van Tien Pham},
+  author   = {Pham, Van Tien},
   journal  = {Rapport de la première année de thèse, soumis au Comité de Suivi Individuel, École Doctorale 548, Université de Toulon},
   abstract = {In the rapidly evolving landscape of deep learning, the proliferation of large-scale neural networks has brought forth new horizons of artificial intelligence. However, their sheer size and computational demands have posed significant challenges, limiting their applicability in resource-constrained environments. The overarching problem of network compression seeks to mitigate these challenges by efficiently designing deep neural models. In this report, we embark on a journey to address this problem, exploring novel avenues for model compression. Our first contribution, CORING, introduces a pioneering filter pruning method that harnesses tensor decomposition, preserving the multidimensional essence of filters. By leveraging the power of CORING, we achieve impressive reductions in model size and computational requirements while retaining or even enhancing performance. CORING's ability to generalize models through pruning is demonstrated across various architectures and datasets. The second contribution, NORTON, unveils a hybrid network compression technique that combines tensor decompositions with structured pruning. NORTON offers a comprehensive approach to model compression, optimizing architecture, and reducing the number of parameters. With NORTON, we attain superior compression ratios and accuracy retention, making it a versatile tool for model optimization. Looking ahead, our research sets the stage for future investigations. Potential avenues include delving deeper into the compression domain, expanding to encompass various decomposition techniques, exploring a broader spectrum of neural network architectures, and applying these efficient models to diverse applications. As we navigate the evolving landscape of deep learning, the pursuit of efficient model design remains at the forefront, driving innovation and unlocking the potential for AI in resource-constrained scenarios.},
   year     = {2023},
@@ -187,7 +187,7 @@
 }
 @inproceedings{pham2023elagage,
   title     = {{\'E}lagage efficace des filtres bas{\'e} sur les d{\'e}compositions tensorielles},
-  author    = {Van Tien Pham and Yassine Zniyed and Thanh Phuong Nguyen},
+  author    = {Pham, Van Tien and Zniyed, Yassine and Nguyen, Thanh Phuong},
   booktitle = {GRETSI 2023 XXIX{\`e}me Colloque Francophone de Traitement du Signal et des Images},
   abstract  = {Nous présentons une nouvelle méthode d'élagage des filtres pour les réseaux de neurones, appelée CORING (pour effiCient tensOr decomposition-based filteR prunING en anglais). L'approche proposée maintient l'aspect multidimensionnel des filtres grâce à l'utilisation de décompositions tensorielles. Notre approche permet de mesurer la similarité entre les filtres de manière plus efficace et plus précise que les méthodes traditionnelles qui utilisent des versions vectorisées ou matricisées des filtres. Avec cette approche, nous pouvons effectuer l'élagage des filtres plus efficacement en gardant l'essentiel de l'information en utilisant des décompositions de tenseurs sur les filtres. Les expériences menées sur différentes architectures prouvent l'efficacité de CORING.},
   year      = {2023},
