@@ -1,19 +1,67 @@
-"zniyed":
-  - firstname: ["Yassine"]
-    url: https://yzniyed.blogspot.com/p/about-me.html
-
-"nguyen":
-  - firstname: ["Thanh Phuong"]
-    url: https://webusers.i3s.unice.fr/~tpnguyen/
+"le":
+  - firstname: ["Thi Lan"]
+    url: https://www.mica.edu.vn/perso/Le-Thi-Lan/
 
 "tran":
   - firstname: ["Thanh Hai"]
     url: https://www.mica.edu.vn/perso/Tran-Thi-Thanh-Hai/
 
-"le":
-  - firstname: ["Thi Lan"]
-    url: https://www.mica.edu.vn/perso/Le-Thi-Lan/
+"nguyen":
+  - firstname: ["Thanh Phuong"]
+    url: https://webusers.i3s.unice.fr/~tpnguyen/
 
 "vu":
   - firstname: ["Hai"]
     url: https://www.mica.edu.vn/perso/Vu-Hai/
+
+"tran":
+  - firstname: ["Cong Minh"]
+    url: https://www.linkedin.com/in/minhtc900/
+
+"zheng":
+  - firstname: ["Stanley"]
+    url: https://www.linkedin.com/in/stanleyjzheng/
+
+"vu":
+  - firstname: ["Tri Minh"]
+    url: https://scholar.google.com/citations?user=yRH4kDIAAAAJ&hl=en
+
+"nath":
+  - firstname: ["Shantanu"]
+    url: https://scholar.google.com/citations?user=XDVd-tQAAAAJ&hl=en
+
+"zniyed":
+  - firstname: ["Yassine"]
+    url: https://yzniyed.blogspot.com/p/about-me.html
+
+"tokcan":
+  - firstname: ["Neriman"]
+    url: https://nerimantokcan.com/
+
+"sofi":
+  - firstname: ["Shakir Showkat"]
+    url: https://shakirsofi.github.io/
+
+"prevost":
+  - firstname: ["Clémence"]
+    url: https://cprevost4.github.io/
+
+"kharbech":
+  - firstname: ["Sofiane"]
+    url: https://scholar.google.com/citations?user=m-5YIhUAAAAJ&hl=en
+
+"magnier":
+  - firstname: ["Baptiste"]
+    url: https://cv.hal.science/baptiste-magnier
+
+"de_lathauwer":
+  - firstname: ["Lieven"]
+    url: https://scholar.google.com/citations?user=S8D8NAkAAAAJ&hl=en
+
+"de_jonghe":
+  - firstname: ["Joppe"]
+    url: https://scholar.google.com/citations?user=-z0HnLkAAAAJ&hl=nl
+
+"ishteva":
+  - firstname: ["Mariya"]
+    url: https://scholar.google.com/citations?user=MPumRaEAAAAJ&hl=en
