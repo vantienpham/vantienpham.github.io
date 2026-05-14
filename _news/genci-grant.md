@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-⚡ Our project *“Controlled and efficient adaptation of multimodal foundation models for anomaly detection”* has been granted a [GENCI](https://www.genci.fr/) allocation, providing 50,000 GPU hours on the French national HPC infrastructure, including the [Jean Zay supercomputer](http://www.idris.fr/eng/jean-zay/jean-zay-presentation-eng.html).
+The project *“Controlled and efficient adaptation of multimodal foundation models for anomaly detection”* has been granted a [GENCI](https://www.genci.fr/) allocation of 50,000 GPU hours on the French national high-performance computing infrastructure, including resources at [IDRIS](https://www.idris.fr/).
