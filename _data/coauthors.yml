@@ -6,6 +6,9 @@
   - firstname: ["Thanh Hai"]
     url: https://www.mica.edu.vn/perso/Tran-Thi-Thanh-Hai/
 
+  - firstname: ["Cong Minh"]
+    url: https://www.linkedin.com/in/minhtc900/
+
 "nguyen":
   - firstname: ["Thanh Phuong"]
     url: https://webusers.i3s.unice.fr/~tpnguyen/
@@ -14,17 +17,12 @@
   - firstname: ["Hai"]
     url: https://www.mica.edu.vn/perso/Vu-Hai/
 
-"tran":
-  - firstname: ["Cong Minh"]
-    url: https://www.linkedin.com/in/minhtc900/
+  - firstname: ["Tri Minh"]
+    url: https://scholar.google.com/citations?user=yRH4kDIAAAAJ&hl=en
 
 "zheng":
   - firstname: ["Stanley"]
     url: https://www.linkedin.com/in/stanleyjzheng/
-
-"vu":
-  - firstname: ["Tri Minh"]
-    url: https://scholar.google.com/citations?user=yRH4kDIAAAAJ&hl=en
 
 "nath":
   - firstname: ["Shantanu"]
@@ -54,11 +52,11 @@
   - firstname: ["Baptiste"]
     url: https://cv.hal.science/baptiste-magnier
 
-"de_lathauwer":
+"de lathauwer":
   - firstname: ["Lieven"]
     url: https://scholar.google.com/citations?user=S8D8NAkAAAAJ&hl=en
 
-"de_jonghe":
+"de jonghe":
   - firstname: ["Joppe"]
     url: https://scholar.google.com/citations?user=-z0HnLkAAAAJ&hl=nl
 
