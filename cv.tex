@@ -1,0 +1,245 @@
+\documentclass[11pt,a4paper]{article}
+
+% ===============================
+% Packages
+% ===============================
+\usepackage[margin=2cm]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{refcount}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{eurosym}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+\hypersetup{
+  colorlinks=false,
+  pdfborder={0 0 0}
+}
+
+% ===============================
+% Section style
+% ===============================
+\usepackage{titlesec}
+\titleformat{\section}
+  {\large\bfseries}
+  {}
+  {0pt}
+  {}
+  [\titlerule]
+
+\titlespacing*{\section}{0pt}{1.2em}{0.6em}
+
+% ===============================
+% Reverse numbering for publications
+% ===============================
+\makeatletter
+\AddEnumerateCounter*{\reversearabic}{\@reversearabic}{2}
+\newcommand{\reversearabic}[1]{\expandafter\@reversearabic\csname c@#1\endcsname}
+\newcommand{\@reversearabic}[1]{%
+  \number\numexpr\getrefnumber{this@etaremune@\romannumeral\c@etaremune}-#1+1\relax
+}
+\newcounter{etaremune}
+\newenvironment{etaremune}[1][]{%
+  \stepcounter{etaremune}%
+  \begin{enumerate}[label=\reversearabic*., leftmargin=*, #1]%
+}{%
+  \edef\@currentlabel{\the\csname c@\@enumctr\endcsname}%
+  \label{this@etaremune@\romannumeral\c@etaremune}%
+  \end{enumerate}%
+}
+\makeatother
+
+% ===============================
+% Commands
+% ===============================
+\newcommand{\entry}[4]{%
+  \textbf{#1} \hfill #2\\
+  #3\\
+  #4
+  % \vspace{0.6em}
+}
+
+% ===============================
+% Document
+% ===============================
+\begin{document}
+
+\begin{center}
+    {\LARGE\bfseries Van Tien Pham}\\
+    \vspace{0.3em}
+    \href{mailto:van.tien.pham@outlook.com}{van.tien.pham@outlook.com} \quad
+    \href{https://vantienpham.github.io}{vantienpham.github.io}
+\end{center}
+
+% My research focuses on efficient AI, including pruning and low-rank approximation for neural network compression.
+
+% ===============================
+\section{Professional Experiences}
+\entry
+{Postdoctoral Fellow}
+{04/2026 -- Present}
+{CEA, Université Paris-Saclay, France}
+{
+    % PEPR IA – HOLIGRAIL: Holistic approaches to greener model architectures for inference and learning
+    {Research on energy-efficient and hardware-aware AI architectures for embedded systems within the PEPR IA – HOLIGRAIL project.}
+}
+
+\entry
+{Postdoctoral Fellow}
+{12/2025 -- 04/2026}
+{Laboratoire d'Informatique et des Systèmes (LIS), UMR 7020 CNRS, France}
+{Research on efficient multimodal foundation models for anomaly detection.}
+
+% \entry
+% {Affiliated Researcher}
+% {01/2026 -- Present}
+% {Ton Duc Thang University, Vietnam}
+% {Research on large language models compression using low-rank approximations.}
+
+\entry
+{Research Engineer}
+{07/2019 -- 10/2022}
+{Viettel High Technologies Industry Corporation, Viettel Group, Vietnam}
+{Research and development of virtual reality simulation systems.}
+
+\entry
+{Research Intern}
+{08/2018 -- 02/2021}
+{MICA International Research Institute, HUST – CNRS/UMI-2954 – Grenoble INP, Vietnam}
+{Research on image classification, object detection, segmentation, and tracking using neural networks.}
+% ===============================
+\section{Education}
+
+\entry
+{PhD in Computer Science}
+{11/2022 -- 11/2025}
+{Université de Toulon, France}
+{Thesis: Deep neural network compression using pruning and low-rank approximations.\\
+    \textbf{Laureate of the GDR IASIS–GRETSI PhD Thesis Prize} in Signal, Image and Vision, awarded by Club EEA – GDR IASIS – GRETSI, 2026.\\
+    \textbf{Accessit of the AFRIF PhD Thesis Prize}, awarded by the Association Française pour la Reconnaissance et l’Interprétation des Formes (AFRIF), 2026.
+}
+
+\entry
+{Master's Degree in Computer Science}
+{10/2019 -- 12/2020}
+{Hanoi University of Science and Technology (HUST), Vietnam}
+{Thesis: Object detection, segmentation, and tracking from egocentric vision.
+}
+
+\entry
+{Engineering Degree in Computer Science}
+{09/2014 -- 06/2019}
+{Hanoi University of Science and Technology (HUST), Vietnam}
+{
+    Programme de Formation d’Ingénieurs d’Excellence au Vietnam (PFIEV).
+}
+
+% ===============================
+\section{Funding and Grants}
+
+\textbf{2026 -- 2027}\\
+\textbf{Principal Investigator} — Grand Équipement National de Calcul Intensif (GENCI) Allocation\\
+Project ID: AD011017604\\
+Title: Controlled and efficient adaptation of multimodal foundation models for anomaly detection\\
+Computing centres: Institut du Développement et des Ressources en Informatique Scientifique (IDRIS, Jean Zay);
+Très Grand Centre de Calcul (TGCC, Joliot-Curie);
+Centre Informatique National de l’Enseignement Supérieur (CINES, Adastra)\\
+Computing resources: 50\,000 GPU hours (H100/A100/V100), \(\sim\)21\,565\,\(\text{\euro}\) equivalent.
+
+% ===============================
+\section{Publications}
+
+\textbf{Journals}
+\begin{etaremune}[label={[J\reversearabic*]}]
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Coupled Tensor Decomposition for Compact Network Representation},
+    IEEE Transactions on Neural Networks and Learning Systems, vol. 37, no. 2, pp. 617-631, February 2026.
+
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Singular values-driven automated filter pruning},
+    Neural Networks, vol. 192, p. 107857, December 2025.
+
+    \item Neriman Tokcan\(^*\), Shakir Showkat Sofi\(^*\), \underline{Van Tien Pham}\(^*\), Clémence Prévost\(^*\),
+    Sofiane Kharbech\(^*\), Baptiste Magnier, Thanh Phuong Nguyen, Yassine Zniyed, Lieven De Lathauwer,
+    \textbf{Tensor decompositions for signal processing: theory, advances, and applications},
+    Signal Processing, vol. 238, p. 110191, January 2026.
+        {$^*$Co-first authors.}
+
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Enhanced Network Compression Through Tensor Decompositions and Pruning},
+    IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 3, pp. 4358–4370, March 2025.
+
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Efficient tensor decomposition-based filter pruning},
+    Neural Networks, vol. 178, p. 106393, October 2024.
+\end{etaremune}
+
+\textbf{Preprints}
+\begin{etaremune}[label={[P\reversearabic*]}]
+    \item \underline{Van Tien Pham},
+    \textbf{Basis sharing and coefficient pruning for efficient neural network compression}, Under review, 2026.
+    \item Joppe De Jonghe\(^*\), \underline{Van Tien Pham}\(^*\), Mariya Ishteva
+    \textbf{Robust Basis Spline Decoupling for the Compression of Transformer Models}, Under review, 2026.
+        {$^*$Equal contribution.}
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Matrix-valued function decoupling and application to neural network compression}, Under review, 2026.
+\end{etaremune}
+
+\textbf{Conferences}
+\begin{etaremune}[label={[C\reversearabic*]}]
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Hybrid network compression through tensor decompositions and pruning},
+    32nd European Signal Processing Conference (EUSIPCO), Lyon, France, pp. 1052–1056, August 2024.
+
+    \item \underline{Van Tien Pham}, Yassine Zniyed, Thanh Phuong Nguyen,
+    \textbf{Élagage efficace des filtres basé sur les décompositions tensorielles},
+    XXIXème Colloque Francophone de Traitement du Signal et des Images (GRETSI), Grenoble, France, pp. 937-940, August 2023.
+
+    \item \underline{Van Tien Pham}, Thanh Phuong Nguyen,
+    \textbf{Identification and localization of COVID-19 abnormalities on chest radiographs},
+    The International Conference on Artificial Intelligence and Computer Vision, pp. 251-261, 2023.
+
+    \item \underline{Van Tien Pham}, Cong Minh Tran, Stanley Zheng, Tri Minh Vu, Shantanu Nath,
+    \textbf{Chest X-ray abnormalities localization via ensemble of CNNs},
+    International Conference on Advanced Technologies for Communications, 2021.
+
+    \item \underline{Van Tien Pham}, T.H. Tran, H. Vu,
+    \textbf{Detection and tracking hand from FPV: benchmarks and challenges on rehabilitation exercises dataset},
+    IEEE International Conference on Computing and Communication Technologies (RIVF), 2021.
+
+    \item \underline{Van Tien Pham}, Thi Lan Le, Thanh Hai Tran, Thanh Phuong Nguyen,
+    \textbf{Hand detection and segmentation using multimodal information from Kinect},
+    IEEE International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 2020.
+\end{etaremune}
+
+\textbf{Talks}
+\begin{etaremune}[label={[T\reversearabic*]}]
+    \item \textbf{Deep neural network compression using pruning and low-rank approximations},
+    Invited presentation as laureate of the GDR IASIS–GRETSI PhD Thesis Prize, Congrès Annuel du Club EEA, Toulouse, France, June 2026.
+    \item \textbf{Coupled tensor decomposition for compact network representation},
+    Journées Apprentissage Signal Image du LIS, Châteauneuf-le-Rouge, France, November 2025.
+    \item \textbf{Hybrid network compression through tensor decompositions and pruning},
+    Journées Apprentissage Signal Image du LIS, Aix-en-Provence, France, June 2024.
+\end{etaremune}
+% ===============================
+\section{Reviewing Activities}
+\textbf{Journal Reviewer:}
+\\
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Expert Systems with Applications, IEEE Transactions on Signal Processing, Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence, Quantum Machine Intelligence, Artificial Intelligence Review, Frontiers in Artificial Intelligence, Mathematics, Algorithms, Electronics, Signals, Applied Sciences, The Journal of Supercomputing, Scientific Reports, Signal, Image and Video Processing, njp Heritage Science, Journal of King Saud University Computer and Information Sciences.
+
+\textbf{Conference Reviewer:}
+\\
+International Conference on Learning Representations (ICLR), Conference on Computer Vision and Pattern Recognition (CVPR), International Conference on Machine Learning (ICML), International Conference on Artificial Intelligence and Statistics (AISTATS), International Joint Conference on Neural Networks (IJCNN), International Conference on Multimodal Interaction (ICMI), European Signal Processing Conference (EUSIPCO), Groupe de Recherche et d'Études de Traitement du Signal et des Images (GRETSI).
+% ===============================
+\section{Honors and Awards}
+2026: Laureate of the GDR IASIS–GRETSI PhD Thesis Prize (Signal, Image and Vision), Club EEA – GDR IASIS – GRETSI \\
+2026: Accessit of the AFRIF PhD Thesis Prize (Association Française pour la Reconnaissance et l’Interprétation des Formes) \\
+2021: Best Paper Runner-Up Award, IEEE International Conference on Computing and Communication Technologies (RIVF) \\
+2020: First-Class Honours, Master's Degree, Hanoi University of Science and Technology \\
+% 2016: Honorable Mention, ACM ICPC Vietnam National Programming Contest \\
+% 2015: Second Prize, Vietnam Student Olympiad in Informatics \\
+% 2014--2018: Excellence Scholarships, Hanoi University of Science and Technology
+
+\end{document}
