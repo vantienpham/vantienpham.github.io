@@ -28,7 +28,7 @@ Previously, I was a postdoctoral researcher at the <a href="https://www.lis-lab.
 
 I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, where my thesis on deep neural network compression using pruning and low-rank approximations was awarded the <a href="https://gretsi.fr/prix-de-these2026/resultats.php">GDR IASIS–GRETSI PhD Thesis Prize</a> as laureate, jointly awarded by <a href="https://clubeea.com/">Club EEA</a>, <a href="https://gdr-iasis.cnrs.fr/">GDR IASIS</a>, and <a href="https://www.gretsi.fr/">GRETSI</a>. It also received the Accessit of the <a href="http://afrif.irisa.fr/?page_id=54">AFRIF 2026 PhD Thesis Prize</a>.
 
-Before that, I was a research engineer at <a href="https://viettelhightech.vn/en">Viettel High Technologies Industry Corporation</a>, contributing to research and development of virtual reality simulation systems.
+Before that, I was a research engineer at <a href="https://viettelhightech.vn/en">Viettel High Technologies Industry Corporation</a>, contributing to the research and development of virtual reality simulation systems.
 
 I earned my engineering and master’s degrees from <a href="https://hust.edu.vn/en/">Hanoi University of Science and Technology</a>, <a href="https://soict.hust.edu.vn/en/">School of Information and Communications Technology</a>. During this period, I worked at the <a href="https://mica.edu.vn/index.php?lang=en">International Research Institute MICA</a> on object detection, segmentation, and tracking from egocentric vision.
 
