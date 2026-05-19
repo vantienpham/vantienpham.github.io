@@ -21,10 +21,10 @@ nav_order: 6
 - [The Journal of Supercomputing](https://link.springer.com/journal/11227): [2 reviews](/assets/pdf/ReviewerCertificates/TJS.pdf)
 - [Scientific Reports](https://www.nature.com/srep/): [4 reviews](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf)
 - [Mathematics](https://www.mdpi.com/journal/mathematics): [1 reviews](/assets/pdf/ReviewerCertificates/Mathematics.pdf)
-- [Algorithms](https://www.mdpi.com/journal/algorithms): 2 reviews
+- [Algorithms](https://www.mdpi.com/journal/algorithms): [3 reviews](/assets/pdf/ReviewerCertificates/Algorithms.pdf)
 - [Applied Sciences](https://www.mdpi.com/journal/applsci): [1 reviews](/assets/pdf/ReviewerCertificates/Mathematics.pdf)
 - [Electronics](https://www.mdpi.com/journal/electronics): [2 reviews](/assets/pdf/ReviewerCertificates/Electronics.pdf)
-- [Signals](https://www.mdpi.com/journal/signals): 1 reviews
+- [Signals](https://www.mdpi.com/journal/signals): [1 reviews](/assets/pdf/ReviewerCertificates/Algorithms.pdf)
 - [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443): [2 reviews](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf)
 - [Signal, Image and Video Processing](https://link.springer.com/journal/11760): [1 reviews](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf)
 - [npj Heritage Science](https://www.nature.com/npjheritagesci/): [2 reviews](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf)
