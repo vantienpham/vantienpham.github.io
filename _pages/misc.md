@@ -28,10 +28,11 @@ nav_order: 6
 - [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443): [2 reviews](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf)
 - [Signal, Image and Video Processing](https://link.springer.com/journal/11760): [1 reviews](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf)
 - [npj Heritage Science](https://www.nature.com/npjheritagesci/): [2 reviews](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf)
-- [International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/): 4 reviews
-- [International Conference on Machine Learning (ICML 2026)](https://icml.cc/): 9 reviews
+- [International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/): [4 reviews](https://www.webofscience.com/wos/author/record/OIR-4330-2025)
+- [International Conference on Machine Learning (ICML 2026)](https://icml.cc/): [9 reviews](https://www.webofscience.com/wos/author/record/OIR-4330-2025)
 - [27th ACM International Conference on Multimodal Interaction (ICMI 2025)](https://icmi.acm.org/2025/people/): [8 reviews](https://icmi.acm.org/2025/people/)
-- [The International Joint Conference on Neural Networks (IJCNN 2026)](https://attend.ieee.org/wcci-2026/): 4 reviews
+- [The International Joint Conference on Neural Networks (IJCNN 2026)](https://attend.ieee.org/wcci-2026/): [4 reviews](https://www.webofscience.com/wos/author/record/OIR-4330-2025)
+- [International Conference on Learning Representations (ICLR 2025)](https://iclr.cc/): [3 reviews](https://www.webofscience.com/wos/author/record/OIR-4330-2025)
 - [XXXe Colloque Francophone de Traitement du Signal et des Images (GRETSI’25)](https://gretsi.fr/2025/): [1 review](https://github.com/GRETSI-2025/Label-Reproductible/issues/36)
 
 ## talks and presentations
