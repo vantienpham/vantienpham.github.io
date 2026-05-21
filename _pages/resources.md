@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /misc/
-title: misc
-description: miscellaneous materials and documents related to my academic activities
+permalink: /resources/
+title: resources
+description: materials and documents related to my academic activities
 nav: true
 nav_order: 6
 ---
