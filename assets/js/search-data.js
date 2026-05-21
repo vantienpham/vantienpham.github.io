@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-misc",
-          title: "misc",
-          description: "miscellaneous materials and documents related to my academic activities",
+        },{id: "nav-resources",
+          title: "resources",
+          description: "materials and documents related to my academic activities",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/misc/";
+            window.location.href = "/resources/";
           },
         },{id: "news-the-project-controlled-and-efficient-adaptation-of-multimodal-foundation-models-for-anomaly-detection-has-been-granted-a-genci-allocation-of-50-000-gpu-hours-on-the-french-national-high-performance-computing-infrastructure-including-resources-at-idris",
           title: 'The project “Controlled and efficient adaptation of multimodal foundation models for anomaly detection”...',
