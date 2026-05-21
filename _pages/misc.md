@@ -11,8 +11,8 @@ nav_order: 6
 
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://publons.com/wos-op/review/author/09gpACcr/): [1 review](/assets/pdf/ReviewerCertificates/TPAMI.pdf)
 - [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78): [1 review](https://publons.com/wos-op/review/author/eKEG88xN/)
-- [Neural Networks](https://www.sciencedirect.com/journal/neural-networks): [5 review](/assets/pdf/ReviewerCertificates/NEUNET.pdf)
-- [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing): [1 review](/assets/pdf/ReviewerCertificates/NEUCOM.pdf)
+- [Neural Networks](https://www.sciencedirect.com/journal/neural-networks): [6 review](/assets/pdf/ReviewerCertificates/NEUNET.pdf)
+- [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing): [2 review](/assets/pdf/ReviewerCertificates/NEUCOM.pdf)
 - [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications): [4 reviews](/assets/pdf/ReviewerCertificates/ESWA.pdf)
 - [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence): [2 reviews](/assets/pdf/ReviewerCertificates/EAAI.pdf)
 - [Artificial Intelligence Review](https://link.springer.com/journal/10462): [2 review](/assets/pdf/ReviewerCertificates/Artificial Intelligence Review.pdf)
