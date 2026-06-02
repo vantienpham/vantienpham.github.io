@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## reviewing certificates
+## reviewing activities
 
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://publons.com/wos-op/review/author/09gpACcr/): [1 review](/assets/pdf/ReviewerCertificates/TPAMI.pdf)
 - [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78): [1 review](https://publons.com/wos-op/review/author/eKEG88xN/)
