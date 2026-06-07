@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: research code releases & open source projects
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}

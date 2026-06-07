@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description: materials and documents related to my academic activities
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## reviewing activities
