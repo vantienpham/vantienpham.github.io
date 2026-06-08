@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /resources/
-title: resources
-description: materials and documents related to my academic activities
+permalink: /activities/
+title: activities
+description: my academic activities
 nav: true
 nav_order: 4
 ---
