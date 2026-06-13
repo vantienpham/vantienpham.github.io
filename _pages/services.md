@@ -12,7 +12,7 @@ nav_order: 4
 - 41 journal reviews across 21 journals
 - 29 conference reviews across 6 conferences
 
-## journals
+### journals
 
 | Venue | Reviews |
 |-------|:-------:|
@@ -38,7 +38,9 @@ nav_order: 4
 | [Signal, Image and Video Processing](https://link.springer.com/journal/11760) | [1](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf) |
 | [npj Heritage Science](https://www.nature.com/npjheritagesci/) | [2](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf) |
 
-## conferences
+---
+
+### conferences
 
 | Venue | Reviews |
 |-------|:-------:|
