@@ -9,8 +9,8 @@ nav_order: 5
 
 - Deep Neural Network Compression using Pruning and Tensor Decompositions, Invited seminar, Laboratoire PRISME, Université d'Orléans, June 2026.
 - Deep Neural Network Compression using Pruning and Low-Rank Approximations, Invited presentation as laureate of the GDR IASIS–GRETSI PhD Thesis Prize, Congrès Annuel du Club EEA, Laboratoire LAAS, Université de Toulouse, June 2026.
-- Coupled Tensor Decomposition for Compact Network Representation, Journ ́ees Apprentissage Signal Image du LIS, Châteauneuf-le-Rouge, France, November 2025.
-- Hybrid Network Compression through Tensor Decompositions and Pruning, Journées Apprentissage Signal Image du LIS, Aix-en-Provence, France, June 2024.
+- Coupled Tensor Decomposition for Compact Network Representation, Journées Apprentissage Signal Image du LIS, Laboratoire LIS, Université de Toulon, Aix Marseille Université, November 2025.
+- Hybrid Network Compression through Tensor Decompositions and Pruning, Journées Apprentissage Signal Image du LIS,  Laboratoire LIS, Université de Toulon, Aix Marseille Université, June 2024.
 
 <div style="text-align: center; max-width: 100%; margin: auto;">
   <p><strong>Coupled Tensor Decomposition for Compact Network Representation</strong></p>
