@@ -26,19 +26,21 @@ nav_order: 5
 <div class="talk-entry" style="margin-bottom: 1.8rem; border-left: 3px solid #0076df; padding-left: 1rem;">
     <h5 style="margin-bottom: 0.25rem; font-weight: 600;">Deep Neural Network Compression using Pruning and Low-Rank Approximations</h5>
     <p style="margin-bottom: 0.25rem; font-size: 0.95rem;">
-      <span class="badge badge-success" style="background-color: #28a745; font-weight: 500; margin-right: 0.5rem;">Club EEA, GDR IASIS, and GRETSI PhD Prize Lecture</span>
+      <span class="badge badge-success" style="background-color: #0076df; font-weight: 500; margin-right: 0.5rem; padding: 0.25em 0.4em;">
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7468322312094793729?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTCu7wBLVTOBkCS52hJUzloXqwqtltaOS0" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">Club EEA, GDR IASIS, and GRETSI PhD Prize Lecture</a>
+      </span>
     </p>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: #495057;">
+    <p style="margin-bottom: 0; font-size: 0.9rem;">
       <i class="fa-solid fa-location-dot" style="color: #0076df; margin-right: 4px;"></i>
-      <a href="https://congres-eea2026.sciencesconf.org/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">Congrès Annuel du Club EEA</a>,
+      <a href="https://congres-eea2026.sciencesconf.org/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;"><strong>Congrès Annuel du Club EEA</strong></a>,
       <a href="https://www.laas.fr" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;"><strong>Laboratoire LAAS, Université de Toulouse</strong></a>
     </p>
     <small class="text-muted">04 June 2026</small>
-  </div>
+</div>
 
   <div class="talk-entry" style="margin-bottom: 1.8rem; border-left: 3px solid #6c757d; padding-left: 1rem;">
     <h5 style="margin-bottom: 0.25rem; font-weight: 600;">Coupled Tensor Decomposition for Compact Network Representation</h5>
-    <p style="margin-bottom: 0.25rem; font-size: 0.95rem; color: #6c757d;">Journées Apprentissage Signal Image du LIS</p>
+    <p style="margin-bottom: 0.25rem; font-size: 0.95rem; color: #6c757d;"><strong>Journées Apprentissage Signal Image du LIS</strong></p>
     <p style="margin-bottom: 0; font-size: 0.9rem; color: #495057;">
       <i class="fa-solid fa-location-dot" style="color: #6c757d; margin-right: 4px;"></i>
       <a href="https://www.lis-lab.fr" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;"><strong>Laboratoire LIS, Université de Toulon, Aix Marseille Université</strong></a>
@@ -48,7 +50,7 @@ nav_order: 5
 
   <div class="talk-entry" style="margin-bottom: 1.8rem; border-left: 3px solid #6c757d; padding-left: 1rem;">
     <h5 style="margin-bottom: 0.25rem; font-weight: 600;">Hybrid Network Compression through Tensor Decompositions and Pruning</h5>
-    <p style="margin-bottom: 0.25rem; font-size: 0.95rem; color: #6c757d;">Journées Apprentissage Signal Image du LIS</p>
+    <p style="margin-bottom: 0.25rem; font-size: 0.95rem; color: #6c757d;"><strong>Journées Apprentissage Signal Image du LIS</strong></p>
     <p style="margin-bottom: 0; font-size: 0.9rem; color: #495057;">
       <i class="fa-solid fa-location-dot" style="color: #6c757d; margin-right: 4px;"></i>
       <a href="https://www.lis-lab.fr" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;"><strong>Laboratoire LIS, Université de Toulon, Aix Marseille Université</strong></a>
