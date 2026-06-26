@@ -19,7 +19,7 @@ nav_order: 4
 | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://publons.com/wos-op/review/author/09gpACcr/) | [1](/assets/pdf/ReviewerCertificates/TPAMI.pdf) |
 | [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78) | [1](https://publons.com/wos-op/review/author/eKEG88xN/) |
 | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [6](/assets/pdf/ReviewerCertificates/NEUNET.pdf) |
-| [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) | [1](/assets/pdf/ReviewerCertificates/PATREC.pdf) |
+| [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) | [2](/assets/pdf/ReviewerCertificates/Certificate_PR_Recognised.pdf) |
 | [Machine Learning](https://link.springer.com/journal/10994) | [1](/assets/pdf/ReviewerCertificates/Machine Learning.pdf) |
 | [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) | [2](/assets/pdf/ReviewerCertificates/NEUCOM.pdf) |
 | [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) | [4](/assets/pdf/ReviewerCertificates/ESWA.pdf) |
