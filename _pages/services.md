@@ -21,6 +21,7 @@ nav_order: 4
 | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [6](/assets/pdf/ReviewerCertificates/NEUNET.pdf) |
 | [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) | [2](/assets/pdf/ReviewerCertificates/Certificate_PR_Recognised.pdf) |
 | [Machine Learning](https://link.springer.com/journal/10994) | [1](/assets/pdf/ReviewerCertificates/Machine Learning.pdf) |
+| [ACM Computing Surveys](https://dl.acm.org/journal/csur) | 1 |
 | [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) | [2](/assets/pdf/ReviewerCertificates/NEUCOM.pdf) |
 | [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) | [4](/assets/pdf/ReviewerCertificates/ESWA.pdf) |
 | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [2](/assets/pdf/ReviewerCertificates/EAAI.pdf) |
