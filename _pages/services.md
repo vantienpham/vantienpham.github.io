@@ -9,7 +9,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 43 journal reviews across 23 journals
+- 44 journal reviews across 24 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
@@ -40,6 +40,7 @@ nav_order: 4
 | [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443) | [3](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf) |
 | [Signal, Image and Video Processing](https://link.springer.com/journal/11760) | [1](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf) |
 | [npj Heritage Science](https://www.nature.com/npjheritagesci/) | [2](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf) |
+| [Jordanian Journal of Computers and Information Technology](https://www.jjcit.org/) | [1](/assets/pdf/ReviewerCertificates/Jordanian Journal Of Computers And Information Technology.pdf) |
 
 ---
 
