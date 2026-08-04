@@ -16,7 +16,7 @@ nav_order: 4
 
 | Venue | Reviews |
 |-------|:-------:|
-| [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://publons.com/wos-op/review/author/09gpACcr/) | [1](/assets/pdf/ReviewerCertificates/TPAMI.pdf) |
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence](/assets/pdf/ReviewerCertificates/TPAMI.pdf) | [1](https://publons.com/wos-op/review/author/09gpACcr/) |
 | [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78) | [1](https://publons.com/wos-op/review/author/eKEG88xN/) |
 | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [7](/assets/pdf/ReviewerCertificates/Certificate_NN_Recognised.pdf) |
 | [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) | [2](/assets/pdf/ReviewerCertificates/Certificate_PR_Recognised.pdf) |
