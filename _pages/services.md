@@ -7,6 +7,15 @@ nav: true
 nav_order: 4
 ---
 
+## editorial service
+
+### associate editor
+
+- **[Signal, Image and Video Processing](https://link.springer.com/journal/11760)**, Springer Nature
+- August 2026 – Present
+
+---
+
 ## reviewing activities
 
 - 51 journal reviews across 25 journals
