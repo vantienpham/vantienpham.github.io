@@ -18,7 +18,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 51 journal reviews across 25 journals
+- 52 journal reviews across 25 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
@@ -46,7 +46,7 @@ nav_order: 4
 | [Electronics](https://www.mdpi.com/journal/electronics) | [2](/assets/pdf/ReviewerCertificates/Electronics.pdf) |
 | [Signals](https://www.mdpi.com/journal/signals) | [1](/assets/pdf/ReviewerCertificates/Algorithms.pdf) |
 | [AgriEngineering](https://www.mdpi.com/journal/agriengineering) | [1](/assets/pdf/ReviewerCertificates/AgriEngineering.pdf) |
-| [Multimedia Systems](https://link.springer.com/journal/530) | [1](/assets/pdf/ReviewerCertificates/Multimedia Systems.pdf) |
+| [Multimedia Systems](https://link.springer.com/journal/530) | [2](/assets/pdf/ReviewerCertificates/Multimedia Systems.pdf) |
 | [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443) | [3](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf) |
 | [Signal, Image and Video Processing](https://link.springer.com/journal/11760) | [1](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf) |
 | [npj Heritage Science](https://www.nature.com/npjheritagesci/) | [2](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf) |
