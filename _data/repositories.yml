@@ -5,6 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - vantienpham/Awesome-Tensor-Decomposition
+  - vantienpham/structure-aware-vlm-compression
   - vantienpham/PhD_Thesis_Tracker
   - sliming-ai/sliming-ai.github.io
   - vantienpham/NORTON
