@@ -1,5 +1,14 @@
 ---
 ---
+@article{pham2026structure,
+  title    = {Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models},
+  author   = {Pham, Van Tien and Le, Thanh Trung},
+  journal  = {Preprint},
+  abstract = {Low-rank factorization by truncated singular value decomposition reduces model cost without specialised kernels, and is competitive when the rank budget is allocated by measured sensitivity. Existing formulations assume a single homogeneous transformer stack, whereas vision-language models comprise two stacks of unequal geometry joined by a projector. We characterise two structural limitations that arise when such formulations are applied to dual-tower architectures: identifying transformer blocks by first match recovers only one tower, so depth indices are assigned inconsistently; and vision blocks beyond the feature-selection layer are executed without influencing the output, so their inclusion alters the reported compression ratio. We accordingly define the compression domain over all eligible linear layers of both towers and the projector, and allocate ranks by solving one integer program over a calibrated error surrogate. Relative to uniform allocation at matched parameter budgets, accuracy improves by 1.9 to 6.1 points on ScienceQA-IMG and 4.4 to 13.4 points on SEED-Bench-IMG for LLaVA-1.5-7B, and by 4.1 to 8.4 points for LLaVA-1.5-13B, with the largest margins under the most aggressive budgets. On Qwen2-VL-7B the method gains 4.3 points under aggressive compression and matches uniform allocation where the latter is already near the uncompressed model. The resulting allocations retain the projector and vision encoder at moderate budgets and draw most savings from the language decoder.},
+  year     = {2026},
+  code     = {https://github.com/vantienpham/structure-aware-vlm-compression},
+  preview  = {pham2026structure.png}
+}
 @article{pham2026basis,
   title    = {Basis Sharing and Coefficient Pruning for Efficient Neural Network Compression},
   author   = {Pham, Van Tien},
