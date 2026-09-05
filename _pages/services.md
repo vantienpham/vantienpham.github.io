@@ -18,7 +18,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 58 journal reviews across 27 journals
+- 59 journal reviews across 28 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
@@ -37,6 +37,7 @@ nav_order: 4
 | [Artificial Intelligence Review](https://link.springer.com/journal/10462) | [3](/assets/pdf/ReviewerCertificates/Artificial Intelligence Review.pdf) |
 | [Quantum Machine Intelligence](https://link.springer.com/journal/42484) | [1](/assets/pdf/ReviewerCertificates/Quantum Machine Intelligence.pdf) |
 | [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) | [3](https://publons.com/wos-op/review/author/kD3Ki7VQ/) |
+| [International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042) | [1](/assets/pdf/ReviewerCertificates/International Journal of Machine Learning and Cybernetics.pdf) |
 | [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence) | [1](https://publons.com/wos-op/review/author/UJ48Aeq5/) |
 | [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management) | [1](/assets/pdf/ReviewerCertificates/Certificate_IPM_Recognised.pdf) |
 | [The Journal of Supercomputing](https://link.springer.com/journal/11227) | [2](/assets/pdf/ReviewerCertificates/TJS.pdf) |
