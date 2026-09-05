@@ -18,7 +18,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 57 journal reviews across 27 journals
+- 58 journal reviews across 27 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
@@ -27,7 +27,7 @@ nav_order: 4
 |-------|:-------:|
 | [IEEE Transactions on Pattern Analysis and Machine Intelligence](/assets/pdf/ReviewerCertificates/TPAMI.pdf) | [1](https://publons.com/wos-op/review/author/09gpACcr/) |
 | [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78) | [1](https://publons.com/wos-op/review/author/eKEG88xN/) |
-| [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [8](/assets/pdf/ReviewerCertificates/Certificate_NN_Recognised.pdf) |
+| [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [9](/assets/pdf/ReviewerCertificates/Certificate_NN_Recognised.pdf) |
 | [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) | [2](/assets/pdf/ReviewerCertificates/Certificate_PR_Recognised.pdf) |
 | [Machine Learning](https://link.springer.com/journal/10994) | [1](/assets/pdf/ReviewerCertificates/Machine Learning.pdf) |
 | [ACM Computing Surveys](https://dl.acm.org/journal/csur) | [1](https://publons.com/wos-op/review/author/AqWj1rCD/) |
