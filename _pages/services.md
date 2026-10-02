@@ -18,7 +18,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 63 journal reviews across 29 journals
+- 64 journal reviews across 30 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
@@ -47,6 +47,7 @@ nav_order: 4
 | [Applied Sciences](https://www.mdpi.com/journal/applsci) | [1](/assets/pdf/ReviewerCertificates/Mathematics.pdf) |
 | [Electronics](https://www.mdpi.com/journal/electronics) | [2](/assets/pdf/ReviewerCertificates/Electronics.pdf) |
 | [Entropy](https://www.mdpi.com/journal/entropy) | [1](/assets/pdf/ReviewerCertificates/Entropy.pdf) |
+| [Biomimetics](https://www.mdpi.com/journal/biomimetics) | [1](/assets/pdf/ReviewerCertificates/Biomimetics.pdf) |
 | [Signals](https://www.mdpi.com/journal/signals) | [1](/assets/pdf/ReviewerCertificates/Algorithms.pdf) |
 | [AgriEngineering](https://www.mdpi.com/journal/agriengineering) | [1](/assets/pdf/ReviewerCertificates/AgriEngineering.pdf) |
 | [Multimedia Systems](https://link.springer.com/journal/530) | [3](/assets/pdf/ReviewerCertificates/Multimedia Systems.pdf) |
