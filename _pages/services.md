@@ -18,7 +18,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 64 journal reviews across 30 journals
+- 65 journal reviews across 31 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
