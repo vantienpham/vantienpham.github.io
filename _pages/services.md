@@ -18,7 +18,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 66 journal reviews across 31 journals
+- 67 journal reviews across 31 journals
 - 29 conference reviews across 6 conferences
 
 ### journals
@@ -42,7 +42,7 @@ nav_order: 4
 | [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management) | [1](/assets/pdf/ReviewerCertificates/Certificate_IPM_Recognised.pdf) |
 | [Pattern Analysis and Applications](https://link.springer.com/journal/10044) | [1](/assets/pdf/ReviewerCertificates/PAA.pdf) |
 | [The Journal of Supercomputing](https://link.springer.com/journal/11227) | [2](/assets/pdf/ReviewerCertificates/TJS.pdf) |
-| [Scientific Reports](https://www.nature.com/srep/) | [4](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf) |
+| [Scientific Reports](https://www.nature.com/srep/) | [5](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf) |
 | [Mathematics](https://www.mdpi.com/journal/mathematics) | [1](/assets/pdf/ReviewerCertificates/Mathematics.pdf) |
 | [Algorithms](https://www.mdpi.com/journal/algorithms) | [5](/assets/pdf/ReviewerCertificates/Algorithms.pdf) |
 | [Applied Sciences](https://www.mdpi.com/journal/applsci) | [1](/assets/pdf/ReviewerCertificates/Mathematics.pdf) |
