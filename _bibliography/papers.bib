@@ -1,5 +1,16 @@
 ---
 ---
+@article{pham2026subspace,
+  author   = {Pham, Van Tien},
+  journal  = {IEEE Signal Processing Letters},
+  title    = {Subspace-Filtered Error Propagation in Deep Low-Rank Compressed Networks},
+  year     = {2026},
+  pages    = {1-5},
+  keywords = {deep neural networks, model compression, low-rank approximation, error propagation, perturbation analysis, calibration},
+  abstract = {Post-training low-rank compression replaces each weight matrix of a trained network by a low-rank factor that preserves the layer response on a calibration sample. Composing single-layer recovery guarantees over depth by the Lipschitz argument gives bounds that grow with the product of the layer norms. We decompose the propagated error into per-layer residuals and amplifications, and show that a rank-$r$ layer transmits only the part of the incoming perturbation that lies in its $r$-dimensional input subspace. We also show that the covariance-weighted estimator is a projection of the weights that preserves the leading singular values of the layer response, up to a damping term. On VGG-16 the resulting bound is within a factor 3.3 of the measured error, where the Lipschitz bound is $5.6 \times 10^{11}$, and its coefficients transfer to held-out images. In this convolutional network the perturbation is aligned with the retained subspaces, so the general-position rate $\sqrt{r/N}$ is optimistic. Experiments on three ResNets and two language models compare calibration schemes.},
+  code     = {https://github.com/vantienpham/subspace-filtered-propagation}
+  preview  = {pham2026subspace.png},
+}
 @article{pham2026structure,
   title    = {Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models},
   author   = {Pham, Van Tien and Le, Thanh Trung},
