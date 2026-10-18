@@ -22,7 +22,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently an FNRS postdoctoral researcher at <a href="https://www.umons.ac.be/">Université de Mons</a>. I also serve as an associate editor for <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer Nature.
+I am currently an FNRS postdoctoral researcher at <a href="https://www.umons.ac.be/">University of Mons</a>. I also serve as an associate editor for <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer Nature.
 
 Previously, I was a postdoctoral researcher at <a href="https://www.cea.fr/">CEA</a>, <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, and before that at the <a href="https://www.lis-lab.fr/">Laboratoire d’Informatique et des Systèmes</a>.
 
