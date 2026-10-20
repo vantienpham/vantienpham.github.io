@@ -12,7 +12,6 @@ nav_order: 4
 ### associate editor
 
 - **[Signal, Image and Video Processing](https://link.springer.com/journal/11760)**, Springer Nature
-- August 2026 – Present
 
 ---
 
