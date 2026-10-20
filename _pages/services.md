@@ -63,6 +63,7 @@ nav_order: 4
 
 | Venue | Reviews |
 |-------|:-------:|
+| [International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2027)](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) | [5](https://www.webofscience.com/wos/author/record/OIR-4330-2025) |
 | [International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/) | [4](https://www.webofscience.com/wos/author/record/OIR-4330-2025) |
 | [International Conference on Machine Learning (ICML 2026)](https://icml.cc/) | [9](https://www.webofscience.com/wos/author/record/OIR-4330-2025) |
 | [27th ACM International Conference on Multimodal Interaction (ICMI 2025)](https://icmi.acm.org/2025/people/) | [8](https://icmi.acm.org/2025/people/) |
