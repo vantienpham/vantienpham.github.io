@@ -24,7 +24,7 @@ latest_posts:
 ---
 I am currently an FNRS postdoctoral researcher at <a href="https://www.umons.ac.be/">University of Mons</a>. I also serve as an associate editor for <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer Nature.
 
-Previously, I was a postdoctoral researcher at <a href="https://www.cea.fr/">CEA</a>, <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, and before that at the <a href="https://www.lis-lab.fr/">Laboratoire d’Informatique et des Systèmes</a>.
+Previously, I was a postdoctoral researcher at <a href="https://www.cea.fr/">CEA</a>, <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, and before that at <a href="https://www.lis-lab.fr/">Laboratoire d’Informatique et des Systèmes</a>.
 
 I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, where my thesis was awarded the <a href="https://gretsi.fr/prix-de-these2026/resultats.php">GDR IASIS–GRETSI PhD Thesis Prize</a> as laureate, jointly awarded by <a href="https://clubeea.com/">Club EEA</a>, <a href="https://gdr-iasis.cnrs.fr/">GDR IASIS</a>, and <a href="https://www.gretsi.fr/">GRETSI</a>. It also received the Accessit of the <a href="http://afrif.irisa.fr/?page_id=54">AFRIF 2026 PhD Thesis Prize</a>.
 
