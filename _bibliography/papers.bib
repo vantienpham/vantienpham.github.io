@@ -9,7 +9,7 @@
   keywords = {deep neural networks, model compression, low-rank approximation, error propagation, perturbation analysis, calibration},
   abstract = {Post-training low-rank compression replaces each weight matrix of a trained network by a low-rank factor that preserves the layer response on a calibration sample. Composing single-layer recovery guarantees over depth by the Lipschitz argument gives bounds that grow with the product of the layer norms. We decompose the propagated error into per-layer residuals and amplifications, and show that a rank-$r$ layer transmits only the part of the incoming perturbation that lies in its $r$-dimensional input subspace. We also show that the covariance-weighted estimator is a projection of the weights that preserves the leading singular values of the layer response, up to a damping term. On VGG-16, the resulting bound closely tracks the measured error, substantially improving upon the conventional Lipschitz bound, and its coefficients transfer to held-out images. In this convolutional network, the perturbation is aligned with the retained subspaces, making the general-position assumption overly optimistic. Experiments on three ResNets and two language models compare calibration schemes and reveal architecture-dependent differences in compression performance.},
   code     = {https://github.com/vantienpham/subspace-filtered-propagation},
-  preview  = {pham2026subspace.png},
+  preview  = {pham2026subspace.png}
 }
 @article{pham2026structure,
   title    = {Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models},
@@ -55,7 +55,7 @@
   abstract = {This thesis introduces five methods for neural network compression, focusing on pruning and low-rank approximations. First, CORING (effiCient tensOr decomposition-based filteR prunING) is an efficient pruning method that uses higher-order singular value decomposition to preserve the tensorial structure of convolutional filters, enabling effective low-rank approximations. Second, SLIMING (Singular vaLues-drIven autoMated filter prunING) is a singular value-driven framework that formulates pruning as a two-stage optimization problem, where both configuration and filter selection are guided by spectral properties. Third, NORTON (enhanced Network cOmpRession through TensOr decompositions and pruNing) is a hybrid approach that leverages the advantages of both tensor decomposition and structured pruning. Fourth, CoDeC (Coupled tensor Decomposition for Compact network representation) employs coupled canonical polyadic decomposition to jointly factorize groups of similar filters, with a custom similarity metric used for pre-clustering. Finally, Flex extends compression to matrix-valued multivariate functions through a decoupling framework formulated as a coupled matrix–tensor factorization problem, solved via alternating least squares with zeroth- and first-order information. Together, these contributions offer complementary and principled strategies to reduce model complexity while maintaining high performance across diverse neural architectures.},
   school   = {Universit{\'e} de Toulon},
   website  = {https://hal.science/tel-05538668},
-  video    = {https://www.youtube.com/playlist?list=PLWBYzJD_wkfvOn8fA-pKx0HIX0n1V5epw},
+  pdf      = {https://hal.science/tel-05538668},
   keywords = {low-rank approximations, pruning, neural network compression},
   preview  = {pham2025deep.png}
 }
