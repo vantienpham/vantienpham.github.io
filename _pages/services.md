@@ -18,7 +18,7 @@ nav_order: 4
 ## reviewing activities
 
 - 72 journal reviews across 33 journals
-- 34 conference reviews across 7 conferences
+- 44 conference reviews across 8 conferences
 
 ### journals
 
@@ -64,6 +64,7 @@ nav_order: 4
 
 | Venue | Reviews |
 |-------|:-------:|
+| [IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027)](https://2027.ieeeicassp.org/) | [10](/assets/pdf/ReviewerCertificates/icassp27.pdf) |
 | [International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2027)](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) | [5](https://www.webofscience.com/wos/author/record/OIR-4330-2025) |
 | [International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/) | [4](https://www.webofscience.com/wos/author/record/OIR-4330-2025) |
 | [International Conference on Machine Learning (ICML 2026)](https://icml.cc/) | [9](https://www.webofscience.com/wos/author/record/OIR-4330-2025) |
