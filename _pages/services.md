@@ -17,7 +17,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 73 journal reviews across 33 journals
+- 74 journal reviews across 33 journals
 - 44 conference reviews across 8 conferences
 
 ### journals
@@ -30,7 +30,7 @@ nav_order: 4
 | [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) | [2](/assets/pdf/ReviewerCertificates/Certificate_PR_Recognised.pdf) |
 | [Machine Learning](https://link.springer.com/journal/10994) | [1](/assets/pdf/ReviewerCertificates/Machine Learning.pdf) |
 | [ACM Computing Surveys](https://dl.acm.org/journal/csur) | [1](https://publons.com/wos-op/review/author/AqWj1rCD/) |
-| [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) | [2](/assets/pdf/ReviewerCertificates/NEUCOM.pdf) |
+| [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) | [3](/assets/pdf/ReviewerCertificates/NEUCOM.pdf) |
 | [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) | [4](/assets/pdf/ReviewerCertificates/ESWA.pdf) |
 | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [2](/assets/pdf/ReviewerCertificates/EAAI.pdf) |
 | [Artificial Intelligence Review](https://link.springer.com/journal/10462) | [3](/assets/pdf/ReviewerCertificates/Artificial Intelligence Review.pdf) |
