@@ -28,6 +28,6 @@ Previously, I was a postdoctoral researcher at <a href="https://www.cea.fr/">CEA
 
 I obtained my Ph.D. from <a href="https://www.univ-tln.fr/">Université de Toulon</a>, where my thesis was awarded the <a href="https://gretsi.fr/prix-de-these2026/resultats.php">GDR IASIS–GRETSI PhD Thesis Prize</a> as laureate, jointly awarded by <a href="https://clubeea.com/">Club EEA</a>, <a href="https://gdr-iasis.cnrs.fr/">GDR IASIS</a>, and <a href="https://www.gretsi.fr/">GRETSI</a>. It also received the Accessit of the <a href="http://afrif.irisa.fr/?page_id=54">AFRIF 2026 PhD Thesis Prize</a>.
 
-I earned my engineering and master’s degrees from <a href="https://hust.edu.vn/en/">Hanoi University of Science and Technology</a>, then worked as a research engineer at <a href="https://viettelhightech.vn/en">Viettel High Technologies Industry Corporation</a>.
+I earned my engineering and master’s degrees from <a href="https://hust.edu.vn/en/">Hanoi University of Science and Technology</a>, then worked as a research engineer at <a href="https://viettel.com.vn/en/">Viettel</a>.
 
 My research interests include efficient and sustainable AI, network compression, tensor methods, multimodal foundation models, and hardware-aware machine learning. I welcome collaborations and discussions on these topics across academia and industry.
