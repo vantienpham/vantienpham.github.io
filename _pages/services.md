@@ -17,7 +17,7 @@ nav_order: 4
 
 ## reviewing activities
 
-- 74 journal reviews across 33 journals
+- 81 journal reviews across 35 journals
 - 44 conference reviews across 8 conferences
 
 ### journals
@@ -31,6 +31,7 @@ nav_order: 4
 | [Machine Learning](https://link.springer.com/journal/10994) | [1](/assets/pdf/ReviewerCertificates/Machine Learning.pdf) |
 | [ACM Computing Surveys](https://dl.acm.org/journal/csur) | [1](https://publons.com/wos-op/review/author/AqWj1rCD/) |
 | [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) | [3](/assets/pdf/ReviewerCertificates/NEUCOM.pdf) |
+| [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) | [1](/assets/pdf/ReviewerCertificates/KNOSYS.pdf) |
 | [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) | [4](/assets/pdf/ReviewerCertificates/ESWA.pdf) |
 | [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [2](/assets/pdf/ReviewerCertificates/EAAI.pdf) |
 | [Artificial Intelligence Review](https://link.springer.com/journal/10462) | [3](/assets/pdf/ReviewerCertificates/Artificial Intelligence Review.pdf) |
@@ -42,8 +43,9 @@ nav_order: 4
 | [Neural Processing Letters](https://link.springer.com/journal/11063) | [1](/assets/pdf/ReviewerCertificates/NPL.pdf) |
 | [Pattern Analysis and Applications](https://link.springer.com/journal/10044) | [2](/assets/pdf/ReviewerCertificates/PAA.pdf) |
 | [The Journal of Supercomputing](https://link.springer.com/journal/11227) | [2](/assets/pdf/ReviewerCertificates/TJS.pdf) |
+| [Discover Computing](https://link.springer.com/journal/10791) | [1](/assets/pdf/ReviewerCertificates/Discover Cybersecurity.pdf) |
 | [Discover Cybersecurity](https://link.springer.com/journal/11227) | [1](/assets/pdf/ReviewerCertificates/Discover Cybersecurity.pdf) |
-| [Scientific Reports](https://www.nature.com/srep/) | [5](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf) |
+| [Scientific Reports](https://www.nature.com/srep/) | [7](/assets/pdf/ReviewerCertificates/Scientific Reports.pdf) |
 | [Mathematics](https://www.mdpi.com/journal/mathematics) | [1](/assets/pdf/ReviewerCertificates/Mathematics.pdf) |
 | [Algorithms](https://www.mdpi.com/journal/algorithms) | [5](/assets/pdf/ReviewerCertificates/Algorithms.pdf) |
 | [Applied Sciences](https://www.mdpi.com/journal/applsci) | [1](/assets/pdf/ReviewerCertificates/Mathematics.pdf) |
@@ -53,8 +55,8 @@ nav_order: 4
 | [Signals](https://www.mdpi.com/journal/signals) | [1](/assets/pdf/ReviewerCertificates/Algorithms.pdf) |
 | [AgriEngineering](https://www.mdpi.com/journal/agriengineering) | [1](/assets/pdf/ReviewerCertificates/AgriEngineering.pdf) |
 | [Multimedia Systems](https://link.springer.com/journal/530) | [3](/assets/pdf/ReviewerCertificates/Multimedia Systems.pdf) |
-| [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443) | [3](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf) |
-| [Signal, Image and Video Processing](https://link.springer.com/journal/11760) | [1](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf) |
+| [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443) | [4](/assets/pdf/ReviewerCertificates/Journal of King Saud University Computer and Information Sciences.pdf) |
+| [Signal, Image and Video Processing](https://link.springer.com/journal/11760) | [2](/assets/pdf/ReviewerCertificates/Signal Image and Video Processing.pdf) |
 | [npj Heritage Science](https://www.nature.com/npjheritagesci/) | [2](/assets/pdf/ReviewerCertificates/npj Heritage Science.pdf) |
 | [Jordanian Journal of Computers and Information Technology](https://www.jjcit.org/) | [1](/assets/pdf/ReviewerCertificates/Jordanian Journal Of Computers And Information Technology.pdf) |
 
